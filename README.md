@@ -1,2 +1,1 @@
-# transfer-learning-for-seggregation
-Transfer Learning aproach to military waste seggregation
+# Transfer Learning for Waste Seggregation
